@@ -1,0 +1,7 @@
+veiculo,grupo,num_artigos,total_tokens,top3_adjetivos_israel,top3_adjetivos_palestina
+Fox News,eua,10,8415,"israel, israeli, anti","palestinian, pro, free"
+Al Jazeera,oriente_medio,38,20868,"israeli, military, international","palestinian, old, british"
+Channel News Asia,asia_oriental,50,31363,"israeli, lebanese, southern","palestinian, public, high"
+CNN,eua,11,16198,"israeli, new, brief","palestinian, pro, british"
+Jerusalem Post,oriente_medio,4,2123,"medical, entire, israeli","palestinian, indian, intermittent"
+Straits Times,asia_oriental,1,534,"major, outspoken, strong","palestinian, outspoken, public"

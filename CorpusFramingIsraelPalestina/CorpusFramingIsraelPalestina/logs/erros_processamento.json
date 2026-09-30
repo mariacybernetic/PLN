@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://noticias.uol.com.br/internacional/ultimas-noticias/2026/09/16/israel-ameaca-retomar-guerra-em-gaza-apos-12-mortos-e-100-desaparecidos.ghtm",
+    "veiculo": "UOL",
+    "erro": "falha_download"
+  },
+  {
+    "url": "https://www.terra.com.br/diversao/diretor-palestino-retrata-dificuldades-diarias-em-gaza-com-filme-sobre-puberdade-no-festival-de-toronto,998f5b2eeaa306deef547f6229d26e1dzut334od.html",
+    "veiculo": "Terra",
+    "erro": "falha_download"
+  },
+  {
+    "url": "https://apnews.com/article/uk-west-bank-israel-settlement-sanctions-b4d7354221bfe0c48e4bfce7a3b7624b",
+    "veiculo": "AP News",
+    "erro": "falha_download"
+  },
+  {
+    "url": "https://apnews.com/article/mideast-iran-israel-palestinians-hormuz-washington-september-1-2026-9342eb46aedd484cdf58895c8a116677",
+    "veiculo": "AP News",
+    "erro": "falha_download"
+  }
+]
