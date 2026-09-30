@@ -33,7 +33,7 @@ Todos os notebooks foram feitos para o Google Colab.
 3. Cada notebook tenta localizar automaticamente a pasta do corpus dentro do seu Drive (procurando
    pelo arquivo de metadados esperado); se não encontrar, ajuste manualmente a variável `raiz`.
 4. O Notebook 01 pede uma chave gratuita da [NewsAPI](https://newsapi.org/register) via prompt
-   seguro (`getpass`) — não fica salva em nenhum arquivo.
+   seguro (`getpass`) (não fica salva em nenhum arquivo)
 
 ## Pipeline
 
